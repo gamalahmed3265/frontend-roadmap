@@ -2,4 +2,4 @@
 
 output
 
-<img src="/assets/output"/>
+<img src="/assets/output.png"/>
